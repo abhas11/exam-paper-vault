@@ -3,6 +3,8 @@
 Demo for the thesis *"A Size-Efficient, Cheater-Identifying Threshold Image Sharing
 Scheme for Secure Examination Paper Distribution"*.
 
+Thesis draft (method, security analysis, results, chapter plan): [docs/THESIS_DRAFT.md](docs/THESIS_DRAFT.md)
+
 ## Run
 
 ```bash
